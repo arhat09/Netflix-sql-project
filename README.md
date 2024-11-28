@@ -1,4 +1,4 @@
-https://github.com/najirh/netflix_sql_project/blob/main/logo.png?raw=true
+https://github.com/arhat09/Netflix-sql-project/blob/main/logo.png
 
 # 📊 Netflix Movies and TV Shows Data Analysis using SQL
 
